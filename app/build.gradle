@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "slicktsudios.sa.attendancemonitor"
+        applicationId "slickstudios.sa.attendancemonitor"
         minSdkVersion 17
         targetSdkVersion 21
         versionCode 1
